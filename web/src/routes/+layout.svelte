@@ -4,7 +4,7 @@
 
 <div class="w-full min-h-screen h-full p-4 pb-12 bg-cyan-950">
   <h1
-    class="font-extrabold italic text-7xl text-center text-pink-600 drop-shadow-[0_0_15px_rgba(219,39,119,0.7)]"
+    class="font-extrabold italic sm:text-7xl text-6xl text-center text-pink-600 drop-shadow-[0_0_15px_rgba(219,39,119,0.7)]"
   >
     Shotgunator
   </h1>
