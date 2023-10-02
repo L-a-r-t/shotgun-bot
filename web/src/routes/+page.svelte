@@ -50,7 +50,7 @@
       id="phone"
       class="p-2 rounded-lg border w-full"
       name="phone"
-      placeholder="+33123456789"
+      placeholder="06XXXXXX89"
       required
     />
   </label>
